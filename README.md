@@ -1,4 +1,5 @@
-# Covid-19-forecasting-
+# Covid-19-forecasting- Using LSTM and static analysis
+
 
 Nestor Rendon 
 University of Antioquia
